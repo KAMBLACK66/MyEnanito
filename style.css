@@ -78,3 +78,9 @@ a,
   gap: 20px;
   width: 80px;
 }
+.footer-container__left a {
+  color: #fff;
+}
+.footer-container__left a:hover {
+  color: cyan;
+}
